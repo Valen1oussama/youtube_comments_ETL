@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "retrieve-comments",
-  "private_key_id": "fc6e2ce1ebdd6acbfa50732573267a69cfa9fbb0",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDjCGMvbKsYabNH\n9PIKD3aByILeMKiRm39qDZwhdti2yK8nVCZwZ/iMYjZ9c++GRjsr80pkkK9WWpgj\nkCtoKH4/qX6VVhNAMrc8jPV1wuvUfimCURbhEuezwt966sERyduvA+uwfnTbphxc\nhM8p7E1ZfdgWxmXMetCeOb9sXhzFYVAEpdkg9PWJqhxyLUFRG3U9HEZGktaC7KZA\nPKekU8CtPuMIdB9Iui64NhSxucjSfRZ0IEKejGWuDzwz3v6tiKRnpwyKD4wOwaRn\nGbIk+sJa3ZhqXi2PCobvLqpXWx797w9ApfQVplodw/ZExZAsvvUh3Fip1gkABDpM\nIQqBoTUlAgMBAAECggEAAa8gBgax35KWHFNarpg4+B7OoJbJxc0iL7ljCnFjJRG4\nESKOw8wsM5jI6Gk0h22YiiuU0JbquZDhOzCK7RYWsIkfq/TBZj3P07YjP0RcJTKY\nYd6qzDM2zOefk3EkO4jOuyX11kUuqytSNmqt3a58O4U16mYiPC41cW8GWS9hSvnB\nQlQUeuAwGsIJxTp3LiX2qJ4ZWzRq+pu3gA3B0xv9tXulap+OkLg/UEUhrd88hRO4\nHuy7TBJWH5TbjMRSH5AJ7J/hJ3zok5D6kdJgSpQ4N8clB0fNoVfoYroQwANr+plb\nI9AypQ6v5bDqZw2hg0bNapIJsvCd2D2z7rhfTibkEQKBgQD8T6+VkKiu0qZ28snz\nH5HauRfEtpPbWZ2i0qRA8pmPDaK67qwc45lnmh/iivfQNtumSv7kuHRjYjNH0O2o\nROXKVqxAlNf87EP9v7h10jejz/yAr4s6O9SMrVWU54GTvmFALzRNdiWGzlfE+qay\ncsHvwu4w4xzQTogcH6+BcmzGnQKBgQDmWhfC+In7lmKGPD+2pF2GEpb6JAaNNxN+\nLtOJ86jZQMhu5upcK855ZKXmQZ3Rujn2gQtiuIEe1Bbiq12ELcLwYbyTGj7zQ8DT\nbMGIaJw3SImG2YIJ1r7QetdONGlqFS0S0LSNAwuAnUdNb86sNj8tBwCMueMtpYQ9\nzKcmj/seKQKBgQDCrKEnX3QnX3T9NhtHsUYSYtnJ961hg2WzaZ8+VXDSBY1Xeivm\nJl4Ip8yOOPc3+fvD9P1ycDetLumuMbANMwux8On68l0sUweq07B5h/dSN3n1uHxO\nNDetS1hLCczat/vFUCak1dHij3b9DwBrk0u7uMWbhsCGoPE38eKymB0BqQKBgQCe\n1P5PZNqXzIEQ+BgiksEeAlFyF0chNhnNxvH7zDPf4YiS18w/U8Fh+OFfnFz60QLI\nkwBLyNbXb/x7vReVXYxt/aZudAl16YDbB8GGkkMs52pUvkOpDxaxYBJ3jTImgIV8\n1MW5+aCDxW712SNToW/8Vzis0DvyLI+7oRKcR2kqyQKBgQDHn55qoinMSpSh2r6y\n+2ko16/BpeWHkDh1p9Ly84nblOWiMvXYJyUr13JbDhHPdg5EGTXyuV4fHmpG7Hqc\niRHjGrXkncDVS1AaoD0lZju/i5rdK/0t3M2Qa0ZzDjMYe7YDV676msiABK/6V6Kj\nU73/l8mqtMRXiuPAr+rEtOBhfQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "youtube-data@retrieve-comments.iam.gserviceaccount.com",
-  "client_id": "106500099706752974460",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/youtube-data%40retrieve-comments.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
